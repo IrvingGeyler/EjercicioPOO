@@ -5,7 +5,7 @@ public class Cliente {
     private Integer Cuenta;
     private double Saldo;
 
-        //constructores
+        //constructores nuevos
     Cliente(){}
 
     Cliente(String Nombre,String Apellido,Integer NumCuenta){
